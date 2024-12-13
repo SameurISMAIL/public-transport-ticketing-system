@@ -1,0 +1,22 @@
+/* src/components/Register.css */
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+button {
+  width: 100%;
+}
